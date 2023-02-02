@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# 사이드바 카테고리 메뉴
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "Computer Scinece"
+        url: "/cs"
+      
